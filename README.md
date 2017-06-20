@@ -1,6 +1,8 @@
 
 # redux playground
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/joeshub/redux-playground.svg)](https://greenkeeper.io/)
+
 ## getting started
 ### yarn
 ### yarn start - to start the web server
